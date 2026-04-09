@@ -1,4 +1,4 @@
-{
+y{
   "name": "ᴊᴏᴄᴋᴇʀ-ᴍᴅ",
   "description": "Javascript WhatsApp bot made by ꜱᴇɴᴜᴋᴀ ᴅɪʟꜱᴀʀᴀ",
   "logo": "https://telegra.ph/file/04f33ed3a84d24104a9ef.jpg",
@@ -7,7 +7,7 @@
 
   "env": {
     "SESSION_ID": {
-      "description": "aV5TWTRB#psXB_CM8bqfEPi4CS8m0-6b52TOBpTBxnmVEoHX1H2s",
+      "description": "2NBXBTyC#WQuB4b3WmI7TlMMWPY9Es-soljbRACPG5sq8wzbDywU",
       "required": true
     },  
 
